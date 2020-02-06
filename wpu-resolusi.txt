@@ -1,0 +1,4 @@
+WPU RESOLUSI
+-Konsisten belajar frimework laravel
+-menguasai CRUD frimework laravel
+-membuat aplikasi berbasis web dengan frimework laravel
